@@ -1,6 +1,6 @@
 # Olá, eu sou a Juliana Vasconcelos 👩🏻‍💻👋
 
-## Back-End Developer | Python | Data Science | MySQL | Artificial Intelligence | Gemini
+## Back-End Developer | Python | Data Science | MySQL | Cybersecurity
 
 Seja muito bem-vindo(a) ao meu **primeiro repositório**! Este é o início da minha jornada no GitHub e no mundo da programação 🚀
 
@@ -9,7 +9,7 @@ Seja muito bem-vindo(a) ao meu **primeiro repositório**! Este é o início da m
 
 ### 🌱 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou embarcando na jornada do desenvolvimento back-end com foco em **Python**. Sou movida pela curiosidade e pela vontade de construir soluções eficientes e escaláveis. Minha paixão se estende à **Ciência de Dados** e **Inteligência Artificial**, áreas onde busco constantemente aplicar e expandir meus conhecimentos. Acredito no poder dos dados para gerar insights e na IA para criar inovações. Estou em um momento de aprendizado intenso e mão na massa, construindo uma base sólida em desenvolvimento back-end e explorando o potencial de tecnologias como **MySQL** para gerenciamento de dados e modelos avançados como o **Gemini** para aplicações de IA.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou embarcando na jornada do desenvolvimento back-end com foco em **Python**. Sou movida pela curiosidade e pela vontade de construir soluções eficientes e escaláveis. Minha paixão se estende à **Ciência de Dados** e **Inteligência Artificial**, áreas onde busco constantemente aplicar e expandir meus conhecimentos. Acredito no poder dos dados para gerar insights e na IA para criar inovações. Estou em um momento de aprendizado intenso e mão na massa, construindo uma base sólida em desenvolvimento back-end e explorando o potencial de tecnologias como **MySQL** para gerenciamento de dados.
 
 Busco ativamente oportunidades para aplicar e aprimorar minhas habilidades em um ambiente colaborativo e de aprendizado.
 
@@ -32,11 +32,11 @@ Como este é o meu primeiro repositório, você pode esperar encontrar:
 ### 🚀 Tecnologias usadas (ou que pretendo usar)
 
 * Python
-* Java
-* JavaScript
-* C#
 * MySQL
-* Gemini
+* C++
+* JavaScript
+* HTML
+* CSS
 
  ---
 
